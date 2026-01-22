@@ -1,0 +1,38 @@
+Un nombre en décimal est appelé "base 10"
+Un nombre en binaire est appelé "base 2"
+
+Exercice 1 : convertir 42 en binaire (base 2).
+
+42 / 2 = 21 + 0
+21 / 2 = 10 + 1
+10 / 2 = 5 + 0
+5 / 2 = 2 + 1
+2 / 2 = 1 + 0
+1 / 2 = 0 + 1
+
+Exercice 2 : convertir 10011001 en base 10.
+1 + 0*2 + 0*4 + 1*8 + 1*16 + 0*32 + 0*64 + 1*128
+= 1 + 8 + 16 + 128
+= 153
+
+Un nombre hexadécimal est appelé "base 16"
+
+Exercice 3 : convertir :
+- 101111011001(base 2) en base 16
+- 111011(base 2) en base 16
+- 1A3E(base 16) en base 2
+- 1387(base 10) en base 16
+- 1B87(base 16) en base 10
+
+- 1011 1101 1001 = 0BD9
+- 0011 1011 = 3B
+
+- 1A3E = 0001 1010 0011 1110
+
+- 1387 = 16 * 86 + 11
+-> 86 = 16 * 5 + 6
+-> 5 = 0 * 16 + 5
+-> 056B
+
+- 1B87 = 1*4096 + 11*256 * 8*16 + 7
+= 4096 + 2816 + 128 + 7 = 7047
