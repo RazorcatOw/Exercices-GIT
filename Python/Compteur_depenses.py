@@ -2,7 +2,7 @@ print("Bienvenue dans votre journal de dépenses quotidiennes!\n")
 print("Menu:\n1. Ajouter une nouvelle dépense\n2. Voir toutes les dépenses\n3. Calculer le total et la moyenne des dépenses\n4. Effacer toutes les dépenses\n5. Quitter")
 depenses = []
 while True:
-    Choix = (input("\nQue voulez vous faire?"))
+    Choix = (input("\nQue voulez vous faire?\n"))
     if Choix == "5":
         print("Sortir du journal. Au revoir!")
         break
