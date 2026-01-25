@@ -1,0 +1,12 @@
+« ls » : liste ce qu’il y a dans le dossier.
+« cd nom » : va dans le dossier « nom », tape juste « cd » pour rentrer chez toi.
+« pwd » : dit où t’es, chemin complet.
+« cat fichier » : affiche le contenu d’un fichier.
+« mkdir dossier » : crée un nouveau dossier.
+« touch fichier » : crée un fichier vide.
+« rm » : supprime, « rm -r » pour les dossiers.
+« cp source cible » : copie.
+« mv ancien nouveau » : déplace ou renomme.
+« sudo » : devant une commande, pour faire admin.
+« man commande » : manuel rapide.
+« nano nom_du_fichier » : modifier un ficher
